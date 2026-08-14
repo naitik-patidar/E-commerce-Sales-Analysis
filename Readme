@@ -1,0 +1,24 @@
+Ecommerce-Sales-Analysis/
+│
+├── data/
+│   └── ecommerce_sales_analysis.csv
+│
+├── notebooks/
+│   ├── 01_data_understanding.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_business_overview.ipynb
+│   ├── 04_time_analysis.ipynb
+│   ├── 05_regional_analysis.ipynb
+│   ├── 06_category_analysis.ipynb
+│   ├── 07_region_category_analysis.ipynb
+│   ├── 08_customer_analysis.ipynb
+│   ├── 09_purchase_factors.ipynb
+│   ├── 10_average_order_value.ipynb
+│   ├── 11_business_insights.ipynb
+│   └── 12_visualization_dashboard.ipynb
+│
+└── README.md
+
+
+
+# Understand → Clean → Analyze → Compare → Investigate → Visualize → Conclude
