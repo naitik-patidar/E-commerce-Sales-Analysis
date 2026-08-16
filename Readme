@@ -29,18 +29,17 @@ The dataset (`ecommerce_sales_analysis.csv`) contains **5,000 orders × 12 colum
 
 Key Business Insights
 
-- **Total revenue:** ₹20,667,120 across 5,000 orders
-- **Top region:** North leads with ~25.5% of sales
-- **Top category:** Electronics is the highest-selling category overall (35.5% of purchases), followed by Clothing (30.6%)
-- **Average order quantity:** 4 units (range: 1–7)
-- **High-value customers:** Top 25th percentile of customers average ₹1,515.69 per order
+- Total revenue:** ₹20,667,120 across 5,000 orders
+- Top region:** North leads with ~25.5% of sales
+- Top category:** Electronics is the highest-selling category overall (35.5% of purchases), followed by Clothing (30.6%)
+- Average order quantity:** 4 units (range: 1–7)
+- High-value customers:** Top 25th percentile of customers average ₹1,515.69 per order
 - Regional buying patterns are fairly consistent no single region strongly favors a different category mix
 
 ---
 
-Project Structure
+Project Structure :
 
-```
 E-commerce-Sales-Analysis/
 │
 ├── notebook/
@@ -53,19 +52,19 @@ E-commerce-Sales-Analysis/
 │
 ├── ecommerce_sales_analysis_plan.pdf    # Project analysis plan
 └── README.md
-```
 
-> Note: The analysis plan outlines further notebooks (regional, category, customer, and purchase-factor deep dives) planned as extensions of this project.
+
+- Note: The analysis plan outlines further notebooks (regional, category, customer, and purchase-factor deep dives) planned as extensions of this project.
 
 ---
 
 Tech Stack
 
-- **Python**
-- **Pandas** : data manipulation
-- **NumPy** : numerical operations
-- **Matplotlib / Seaborn** : visualization
-- **Jupyter Notebook** : analysis environment
+- Python
+- Pandas : data manipulation
+- NumPy : numerical operations
+- Matplotlib / Seaborn : visualization
+- Jupyter Notebook : analysis environment
 
 ---
 
