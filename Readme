@@ -1,12 +1,12 @@
-# E-commerce Sales Analysis
+E-commerce Sales Analysis
 
-An end-to-end exploratory data analysis (EDA) project on a 5,000 order e-commerce dataset, covering data cleaning, business overview, time and regional trends, category performance, customer behavior, and final business insights.
+An end to end exploratory data analysis (EDA) project on a 5,000 order e-commerce dataset, covering data cleaning, business overview, time and regional trends, category performance, customer behavior, and final business insights.
 
-**Workflow:** `Understand → Clean → Analyze → Compare → Investigate → Visualize → Conclude`
+Workflow: `Understand → Clean → Analyze → Compare → Investigate → Visualize → Conclude`
 
 ---
 
-## 📊 About the Dataset
+📊 About the Dataset
 
 The dataset (`ecommerce_sales_analysis.csv`) contains **5,000 orders × 12 columns**:
 
@@ -27,7 +27,7 @@ The dataset (`ecommerce_sales_analysis.csv`) contains **5,000 orders × 12 colum
 
 ---
 
-## 🔍 Key Business Insights
+Key Business Insights
 
 - **Total revenue:** ₹20,667,120 across 5,000 orders
 - **Top region:** North leads with ~25.5% of sales
@@ -38,7 +38,7 @@ The dataset (`ecommerce_sales_analysis.csv`) contains **5,000 orders × 12 colum
 
 ---
 
-## 📁 Project Structure
+Project Structure
 
 ```
 E-commerce-Sales-Analysis/
@@ -59,7 +59,7 @@ E-commerce-Sales-Analysis/
 
 ---
 
-## 🛠️ Tech Stack
+Tech Stack
 
 - **Python**
 - **Pandas** : data manipulation
@@ -69,9 +69,9 @@ E-commerce-Sales-Analysis/
 
 ---
 
-## 👤 Author
+👤 Author
 
-**Naitik Patidar**
+Naitik Patidar
 - GitHub: [@naitik-patidar](https://github.com/naitik-patidar)
 - LinkedIn: [naitik-patidar](https://linkedin.com/in/naitik-patidar-3218a23a6)
 
